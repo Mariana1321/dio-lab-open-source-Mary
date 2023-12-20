@@ -1,6 +1,6 @@
-Olá Caros amigos!
+# Olá Caros amigos!
 
-#Me chamo Mariana Macedo 👩🏻‍💻💻📚 
+# Me chamo Mariana Macedo 👩🏻‍💻💻📚 
 
 **Sou formada em Técnica em informática pelo Instituto Federal do Piauí. Estou cursando ensino superior em Ciência da Computação no Centro Universitário Sumaré e atualmente estou estagiando como Suporte HelpDesck.**
 
